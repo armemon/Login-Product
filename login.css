@@ -73,3 +73,8 @@ align-items:center  }
   background-color: black;
   color: white
 }
+
+@media screen and (min-width: 992px) {
+  .introSection{
+margin-top: 85px;
+  }}
