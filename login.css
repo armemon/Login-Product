@@ -76,5 +76,5 @@ align-items:center  }
 
 @media screen and (min-width: 992px) {
   .introSection{
-margin-top: 85px;
+margin-top: 85px !important;
   }}
